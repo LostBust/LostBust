@@ -1,2 +1,1 @@
-- Hi. I make games or something like that.
-- https://www.youtube.com/channel/UC2CFgvCj8KW3kPAehYXfS5w
+Nerd.
